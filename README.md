@@ -7,7 +7,8 @@ Practice SQL operations like inserting, updating, and deleting data in a library
 
 ### 🔹 Inserted Data:
 - **Category**: Fiction, Science, History, Technology
-- **Authors**: George Orwell, Stephen Hawking, etc.
+- **Author**: George Orwell, Stephen Hawking, etc.
+-  **BAuthor**:BookID,AuthorId
 - **Books**: "1984", "Sapiens", etc. (linked to authors)
 - **Members**: 4 members with contact info
 - **Librarians**: 2 records
